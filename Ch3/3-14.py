@@ -1,0 +1,1 @@
+print('*^_^*Python*w_w*'.strip("*^w_"))
